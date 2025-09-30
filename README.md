@@ -1,4 +1,4 @@
-Netflix OOP Project 🎬
+Netflix OOP Project
 
 A simple Java Object-Oriented Programming (OOP) project demonstrating inheritance and composition using a Netflix-style catalog of Movies and TV Shows.
 
